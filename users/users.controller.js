@@ -36,8 +36,7 @@ function register(req, res, next) {
 //     "id": "ThisIsId",
 //     "enrollment": "enrollmentInfo",
 //     "createdDate": "2021-01-18T03:06:33.221Z",
-//     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJUaGlzSXNJZCIsImlhdCI6MTYxMDkzOTE5NCwiZXhwIjoxNjExNTQzOTk0fQ.Vk7KOgiBTkcOYYsi6E-5NIX07FI6ApvSUW_tqlOljok"
-// }
+//     "token": "token" }
 
 function getAll(req, res, next) {
     userService.getAll()
