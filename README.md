@@ -1,4 +1,4 @@
-# manitoCorpApis
+# Social Media Platform Backend - Boiler Plate
 
 open terminal or command line
 
